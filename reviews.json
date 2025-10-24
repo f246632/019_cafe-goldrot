@@ -1,0 +1,36 @@
+{
+  "google_rating": "4.3/5",
+  "facebook_rating": "4.9/5",
+  "total_reviews": "29+",
+  "reviews": [
+    {
+      "author": "Verified Customer",
+      "rating": 5,
+      "text": "Ur-Berliner-Kneipe mit toller Atmosphäre. Das Personal ist professionell und der Service ist sehr nett. Die Preise sind attraktiv!",
+      "date": "2024",
+      "source": "Google Reviews"
+    },
+    {
+      "author": "Local Visitor",
+      "rating": 5,
+      "text": "Lovely atmosphere and delicious coffee! A true Berlin neighborhood gem with great beer selection.",
+      "date": "2024",
+      "source": "Facebook"
+    },
+    {
+      "author": "Berlin Resident",
+      "rating": 4,
+      "text": "Authentisches Berliner Kneipe-Gefühl. Große Auswahl an Biersorten und gemütliche Einrichtung.",
+      "date": "2024",
+      "source": "Google Reviews"
+    }
+  ],
+  "features": [
+    "Live Music Events",
+    "Große Auswahl an Biersorten",
+    "Authentic Berlin Atmosphere",
+    "Professional & Friendly Staff",
+    "Attractive Prices",
+    "Cozy Interior"
+  ]
+}

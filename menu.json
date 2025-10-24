@@ -1,0 +1,50 @@
+{
+  "categories": [
+    {
+      "name": "Getränke / Beverages",
+      "items": [
+        {
+          "name": "Kaffee / Coffee",
+          "description": "Freshly brewed premium coffee",
+          "type": "hot"
+        },
+        {
+          "name": "Berliner Pilsner",
+          "description": "Local Berlin beer selection",
+          "type": "beer"
+        },
+        {
+          "name": "Craft Beer Selection",
+          "description": "Große Auswahl an Biersorten",
+          "type": "beer"
+        },
+        {
+          "name": "Strongbow Cider",
+          "description": "Refreshing apple cider",
+          "type": "cider"
+        }
+      ]
+    },
+    {
+      "name": "Snacks & Gebäck",
+      "items": [
+        {
+          "name": "Berliner",
+          "description": "Traditional Berlin pastries",
+          "type": "pastry"
+        },
+        {
+          "name": "Brezeln",
+          "description": "Fresh pretzels",
+          "type": "snack"
+        }
+      ]
+    }
+  ],
+  "specialties": [
+    "Wide beer selection",
+    "Traditional Berlin atmosphere",
+    "Live music events",
+    "Local neighborhood pub experience"
+  ]
+}
